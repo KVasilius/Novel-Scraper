@@ -1,3 +1,3 @@
 # Novel-Scraper
 
-This is my prject for a course.
+This is my project for a course.
